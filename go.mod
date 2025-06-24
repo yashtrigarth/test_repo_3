@@ -1,6 +1,6 @@
 module ratna.com/ar-ck
 
-go 1.23.5
+go 1.23.5   
 
 require (
 	github.com/ClickHouse/ch-go v0.65.1 // indirect
